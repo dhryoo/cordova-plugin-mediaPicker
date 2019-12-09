@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-mediapicker-dmcsdk",
+  "name": "cordova-plugin-mediapicker",
   "version": "2.4.7",
   "description": "android ios mediaPicker support selection of multiple image and video",
   "cordova": {
