@@ -172,7 +172,8 @@
         
         NSLog(@"this is the final path %@",outputURL);
         
-        exportSession.outputFileType=AVFileTypeMPEG4;
+        //exportSession.outputFileType=AVFileTypeMPEG4;
+        exportSession.outputFileType=AVFileTypeQuickTimeMovie
         
         exportSession.outputURL=outputURL;
 
